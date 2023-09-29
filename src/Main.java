@@ -14,5 +14,7 @@ public class Main {
         }
 
         Race.printStatistics();
+        
+        Race.printStatistics();
     }
 }
